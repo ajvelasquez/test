@@ -12,8 +12,8 @@ Just MVC and repository pattern, to face things like massive view controllers so
 
 ## Other things
 
-- Supports iOS 12.1 >=
+- Supports iOS >= 12.1
 - Supports iPhone and iPad (portrait and landscape)
-- UIKit
-- CoreData
-- JSONPlaceholder API
+- Built using UIKit
+- Uses CoreData
+- Uses the JSONPlaceholder API
